@@ -1,0 +1,102 @@
+[
+  {
+    "business_name": "U Vadika",
+    "type": "Cafe",
+    "address": "вул. Наукова, 7А, Львів, 79060",
+    "phone": "+380 97 443 3464",
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — shows 'Add website' button",
+    "notes": "Розташоване в Optima Plaza Green. Години роботи: з 10:00 (будні). Потенційний клієнт — немає сайту взагалі."
+  },
+  {
+    "business_name": "LATTIO coffee bar",
+    "type": "Coffee shop",
+    "address": "вул. Стрийська, 108, Львів, 79000",
+    "phone": "+48 576 587 205",
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — shows only Telegram link (t.me), no proper website",
+    "notes": "Розташоване в LCD National. Має лише Telegram канал замість вебсайту. Потребує професійної landing page."
+  },
+  {
+    "business_name": "Sindikat Point",
+    "type": "Кав'ярня",
+    "address": "вул. Наукова, 112, Львів, 79000",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps + web search — listed on directories only, no own website",
+    "notes": "Заклад на вул. Науковій. Присутній тільки в каталогах (plaso.pro), власного сайту немає."
+  },
+  {
+    "business_name": "Unique Coffee",
+    "type": "Кав'ярня",
+    "address": "вул. Наукова, 55, Львів, 79071",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps + web search — listed on directories only",
+    "notes": "Заклад на вул. Науковій. Тільки в каталогах, без власного сайту."
+  },
+  {
+    "business_name": "Кав'ярня",
+    "type": "Coffee shop",
+    "address": "вул. Кульпарківська, 141, Львів",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — no website listed",
+    "notes": "Заклад на Кульпарківській (Франківський район). Назва не вказана повністю в результатах. Потребує уточнення."
+  },
+  {
+    "business_name": "Black Honey",
+    "type": "Coffee shop",
+    "address": "вул. Стрийська, 111Ж, Львів",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — no website shown in search results",
+    "notes": "Кав'ярня на Стрийській. Потребує перевірки на наявність сайту через Instagram."
+  },
+  {
+    "business_name": "Aroma Kava",
+    "type": "Coffee shop",
+    "address": "вул. Наукова, 7Б, Львів",
+    "phone": null,
+    "instagram": "@aromakava.official",
+    "has_website": false,
+    "website_check_method": "Google Maps — no website listed. Facebook сторінка замість сайту.",
+    "notes": "Цілодобова кав'ярня на Науковій. Має Facebook та Instagram, але не має власного сайту."
+  },
+  {
+    "business_name": "IMPERO Cafe",
+    "type": "Coffee shop",
+    "address": "вул. Кульпарківська, 64а, Львів",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — no website shown in list results",
+    "notes": "Заклад на Кульпарківській (Франківський район). Потребує перевірки."
+  },
+  {
+    "business_name": "Kavovi Krema",
+    "type": "Cafe",
+    "address": "пл. Берестейської Унії, 2, Львів",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — no website shown in list results",
+    "notes": "Заклад на площі Берестейської Унії (Франківський район). Потребує перевірки."
+  },
+  {
+    "business_name": "Etno Kava",
+    "type": "Coffee shop",
+    "address": "вул. Наукова, 43а, Львів",
+    "phone": null,
+    "instagram": null,
+    "has_website": false,
+    "website_check_method": "Google Maps — temporarily closed, no website listed",
+    "notes": "Тимчасово закрито. Може відкритись знову — варто перевірити пізніше."
+  }
+]
